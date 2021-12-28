@@ -25,7 +25,7 @@ Done by:
 ***
 ![](https://github.com/QUITE7/NLP_Project/blob/main/Picture1.jpg)
 
-this image represent the intertopic distance map,
+this image represent the intertopic distance map.
 
 ***
 
